@@ -9,7 +9,7 @@ from PIL import Image
 maxval = 255
 
 # 读取图片
-src_image = cv2.imread('./f4yv.png')
+src_image = cv2.imread('./lake.png')
 # print(src_image)
 
 # 转为灰度图像

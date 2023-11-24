@@ -35,4 +35,4 @@ for i in range(row):
     for j in range(col):
         pic_new.putpixel((i, j), int(int(256/(label[i][j] + 1))))
 plt.imshow(pic_new)
-plt.waitforbuttonpress(9)
+plt.waitforbuttonpress(99)

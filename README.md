@@ -1,5 +1,5 @@
 # openCV
-机器视觉，目标检测，人脸检测，验证码识别，文本识别
+机器视觉，目标检测，人脸检测，验证码识别，文本识别，图像分割
 
 人脸检测--人与大猩猩
 <img width="934" alt="image" src="https://github.com/dairui2/openCV/assets/31460898/b081b028-61b7-431e-82d5-40f8eef1c426">
@@ -12,3 +12,6 @@
 
 文本识别
 <img width="1047" alt="image" src="https://github.com/dairui2/openCV/assets/31460898/10081018-5772-4007-a108-7ee32aef3022">
+
+图像分割
+![image](https://github.com/dairui2/openCV/assets/31460898/5421600c-f7f9-4876-ac75-cf362317989d)

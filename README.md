@@ -2,6 +2,7 @@
 机器视觉，图像分割，目标检测，人脸检测，验证码识别，文本识别
 
 图像分割
+
 <img width="752" alt="image" src="https://github.com/dairui2/openCV/assets/31460898/0c05ccee-f2ed-4dd4-b69f-43a5f5ac8f67">
 
 人脸检测--人与大猩猩

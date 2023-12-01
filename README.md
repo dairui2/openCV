@@ -14,6 +14,7 @@
 <img width="1047" alt="image" src="https://github.com/dairui2/openCV/assets/31460898/10081018-5772-4007-a108-7ee32aef3022">
 
 图像分割
-<img width="752" alt="image" src="https://github.com/dairui2/openCV/assets/31460898/b04e771d-8ea7-429b-bded-73cd0afabb01">
+<img width="752" alt="image" src="https://github.com/dairui2/openCV/assets/31460898/0c05ccee-f2ed-4dd4-b69f-43a5f5ac8f67">
+
 
 

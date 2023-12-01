@@ -15,3 +15,5 @@
 
 图像分割
 ![image](https://github.com/dairui2/openCV/assets/31460898/5421600c-f7f9-4876-ac75-cf362317989d)
+![image](https://github.com/dairui2/openCV/assets/31460898/f5661b8a-67d7-44a5-be75-d3bfba57b364)
+
